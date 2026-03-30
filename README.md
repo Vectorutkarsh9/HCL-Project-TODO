@@ -96,14 +96,26 @@ Access the classic Razor UI at: `http://localhost:51815`
 
 ## Screenshots
 
-### Enterprise Dashboard
-*(Animated "DATA SKELETON" view with status indicators)*
+### 🔐 Login Page
+![Login Page](assets/Login%20Page.jpg)
 
-### High-Tech Authentication
-*(Cyber-themed login and identity verification)*
+### ➕ Initialize New Task
+![Initialize Task](assets/Initialize%20New%20Task.jpg)
 
-### Dark Mode (Night Protocol)
-*(Optimized high-contrast dark theme for night-time productivity)*
+### ⚙️ MVC Server Side
+![MVC Server](assets/MVC%20Server%20Side.jpg)
+
+### 🗄️ MySQL Database
+![Database](assets/MYSQL%20Database.jpg)
+
+### 📊 Task Status
+![Status](assets/Status.jpg)
+
+### 🎨 Theme Button
+![Theme Button](assets/Theme%20Button.jpg)
+
+### 🔄 Toggle Status
+![Toggle Status](assets/Toggle%20Status.jpg)
 
 ## Project Structure
 

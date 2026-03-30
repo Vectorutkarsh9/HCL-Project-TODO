@@ -132,6 +132,5 @@ TaskManagerSolution/
 
 This project is part of the **HCL Project Initiative**. Maintainers focus on delivering highly animated, enterprise-grade task management solutions.
 
-- Contribution guide: [CONTRIBUTING.md](CONTRIBUTING.md)
 - Before contributing, ensure all builds are passing:
   `dotnet build` and `npm run build`
